@@ -6,4 +6,7 @@
  * @Version: V1.0sd11
  */
 public class dsdsdsdsd {
+    public void ff(){
+
+    }
 }
