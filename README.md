@@ -1,9 +1,7 @@
-# ewewewesassa
 <<<<<<< HEAD
+# ewewewesassa
 ss
 =======
 # ewewewesassaqaaa
-main
-=======
-ss dev dev
->>>>>>> 3d9bfbf (dev)
+>>>>>>> 9ac6acd (main-new)
+main2
